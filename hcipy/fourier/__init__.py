@@ -6,6 +6,9 @@ __all__ = [
     'is_fft_grid',
     'FastFourierTransform',
     'FourierFilter',
+    'FourierShift',
+    'FourierShear',
+    'FourierRotation',
     'MatrixFourierTransform',
     'NaiveFourierTransform'
 ]
